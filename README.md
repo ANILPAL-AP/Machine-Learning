@@ -16,7 +16,7 @@ This folder contains my beginner-level Machine Learning projects using Python.
    `pip install pandas matplotlib scikit-learn`
 
 2. Run the Python program:
-   `python supervised.py`
+   `python supervised_linear_regression.ipynb`
 
 ## Learning Goals
 - Understand supervised learning.
